@@ -1,14 +1,21 @@
-# Bootcamp Data & Automation
+# Bootcamp Data & Automation Analyst
 
-Este repositorio documenta mi progreso durante un bootcamp intensivo de 10 semanas enfocado en:
+Repositorio donde documento mi proceso de aprendizaje en SQL, Python, Power BI y Automatización, con el objetivo de prepararme para una práctica profesional orientada al análisis de datos y la automatización de procesos.
 
-- SQL
-- Python
-- Power BI
-- Automatización con n8n
-- Azure
-- Inteligencia Artificial aplicada
+## Roadmap
 
-## Objetivo
+### SQL
+- [x] Semana 1 - Fundamentos
+- [ ] Semana 2 - Filtrado y funciones
+- [ ] Semana 3 - JOINs
+- [ ] Semana 4 - GROUP BY y HAVING
+- [ ] Semana 5 - Subconsultas
 
-Construir soluciones reales de análisis de datos y automatización para desarrollar un perfil profesional orientado a Datos + Automatización.
+### Python
+- [ ] En progreso
+
+### Power BI
+- [ ] En progreso
+
+### Automatización
+- [ ] En progreso
