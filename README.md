@@ -19,3 +19,8 @@ Repositorio donde documento mi proceso de aprendizaje en SQL, Python, Power BI y
 
 ### Automatización
 - [ ] En progreso
+- [ ] 
+
+
+gAAAAABqxPjRjMvnKLkANaT0zpVV2fKf86kKFV1WKZ7Smhu_w8OwfqaEKaTAhTClXL5I1os3H3yG7U2m8aznOx6awSP80ejGvpruLsgAzGmuIVa4Mrv0PkYMTxLb_GApRdfmELhG26GYP9B2_yQkoTdKOcAvFtVObtEooQeFYTphE1rq3YyrSvFBDoXT1uct3lsI-1yXhmfTOKDaE-eDgAgyMb6Zm6A55iaLAlxPJ9XPHA0ahB-3TsU3m7iVpZocP18JzTB6BuqVZeX-r0vVY3mX0GVsNcc2Og==
+
